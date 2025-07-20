@@ -72,7 +72,7 @@ You can host this project on any static web host:
 ## 🙏 Credits
 
 - **Tafseer Source**: Sirat-ul-Jinan
-- **Design & Code**: [Your Name or GitHub Username]
+- **Design & Code**: Muhammad Umar Qadri
 - **PDF Hosting**: Dropbox
 
 ---
