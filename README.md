@@ -20,11 +20,8 @@ A beautifully designed web library featuring all 10 volumes of **Sirat-ul-Jinan 
 
 sirat-ul-jinan-library/
 ├── index.html # Main web page
-
 ├── style.css # Custom responsive styling
-
 ├── script.js # Dynamic cards with Dropbox links
-
 ├── README.md # Project overview
 
 ---
@@ -41,7 +38,6 @@ sirat-ul-jinan-library/
 
 ## 📦 Example PDF Link (Dropbox)
 
-```plaintext
 https://www.dropbox.com/s/abc123xyz/sirat-ul-jinan-jild-1.pdf?raw=1
 
 This link structure allows the file to be viewed directly in the browser **and** downloaded when needed.
