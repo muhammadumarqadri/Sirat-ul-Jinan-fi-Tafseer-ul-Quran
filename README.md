@@ -43,32 +43,34 @@ https://www.dropbox.com/s/abc123xyz/sirat-ul-jinan-jild-1.pdf?raw=1
 
 This allows the file to be viewed directly in the browser and downloaded when needed.
 
+.
+
 🧪 Try It Locally
-1. Clone or download this repo
+Clone or download this repo
 
-2. Open index.html in your browser
+Open index.html in your browser
 
-3. Click 📖 Read or ⬇️ Download on any volume
+Click 📖 Read or ⬇️ Download on any volume
 
 🌍 Hosting
 You can host this on:
 
-a) GitHub Pages
+GitHub Pages
 
-b) Netlify
+Netlify
 
-c) Vercel
+Vercel
 
-d) Firebase Hosting
+Firebase Hosting
 
 Since the PDFs are external, this project loads fast and is easily deployable anywhere.
 
 🙏 Credits
-1. Tafseer Source: Sirat-ul-Jinan
+Tafseer Source: Sirat-ul-Jinan
 
-2. Design & Code: Muhammad Umar Qadri
+Design & Code: Muhammad Umar Qadri
 
-3. PDF Hosting: Dropbox
+PDF Hosting: Dropbox
 
 📜 License
 This project is intended for educational and religious use only.
