@@ -20,8 +20,11 @@ A beautifully designed web library featuring all 10 volumes of **Sirat-ul-Jinan 
 
 sirat-ul-jinan-library/
 ├── index.html # Main web page
+
 ├── style.css # Custom responsive styling
+
 ├── script.js # Dynamic cards with Dropbox links
+
 ├── README.md # Project overview
 
 ---
@@ -41,41 +44,49 @@ sirat-ul-jinan-library/
 ```plaintext
 https://www.dropbox.com/s/abc123xyz/sirat-ul-jinan-jild-1.pdf?raw=1
 
-This allows the file to be viewed directly in the browser and downloaded when needed.
+This link structure allows the file to be viewed directly in the browser **and** downloaded when needed.
 
-.
+---
 
-🧪 Try It Locally
-Clone or download this repo
+## 🚀 How to Use
 
-Open index.html in your browser
+1. Clone or download this repo
+2. Open `index.html` in your browser
+3. Click **📖 Read** or **⬇️ Download** on any volume
 
-Click 📖 Read or ⬇️ Download on any volume
+---
 
-🌍 Hosting
-You can host this on:
+## 🌍 Hosting
 
-GitHub Pages
+You can host this project on any static web host:
 
-Netlify
+- [GitHub Pages](https://pages.github.com/)
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+- Firebase Hosting
 
-Vercel
+> Since PDFs are hosted externally, this project is light and fast for web hosting.
 
-Firebase Hosting
+---
 
-Since the PDFs are external, this project loads fast and is easily deployable anywhere.
+## 🙏 Credits
 
-🙏 Credits
-Tafseer Source: Sirat-ul-Jinan
+- **Tafseer Source**: Sirat-ul-Jinan
+- **Design & Code**: [Your Name or GitHub Username]
+- **PDF Hosting**: Dropbox
 
-Design & Code: Muhammad Umar Qadri
+---
 
-PDF Hosting: Dropbox
+## 📜 License
 
-📜 License
-This project is intended for educational and religious use only.
-Make sure to verify appropriate rights for public PDF sharing.
+This project is intended for educational and religious use only.  
+Please ensure you have the rights or permission to publicly share the PDF files.
 
-🤝 Contributing
-Pull requests, feedback, and improvements are welcome.
-Feel free to fork the project and enhance the styling, features, or add more volumes.
+---
+
+## 🤝 Contributing
+
+Pull requests, feedback, and suggestions are welcome!  
+Feel free to fork this project and enhance the UI, fix bugs, or add new features.
+
+---
