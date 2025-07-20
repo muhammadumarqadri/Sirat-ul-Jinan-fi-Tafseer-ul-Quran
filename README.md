@@ -21,11 +21,8 @@ A beautifully designed web library featuring all 10 volumes of **Sirat-ul-Jinan 
 sirat-ul-jinan-library/
 
 ├── index.html # Main web page
-
 ├── style.css # Custom responsive styling
-
 ├── script.js # Dynamic cards with Dropbox links
-
 ├── README.md # Project overview
 
 ---
