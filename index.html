@@ -3,19 +3,27 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Sirat-ul-Jinan Library</title>
+  <title>Sirat-ul-Jinan PDF Library</title>
   <link rel="stylesheet" href="style.css"/>
-  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div class="container">
-    <h1>📚 Sirat-ul-Jinan - Tafseer-ul-Quran</h1>
-    <p class="subtitle">Read or Download any volume below:</p>
-    
-    <div id="library" class="library-grid">
-      <!-- PDFs will be loaded dynamically -->
+  <button class="toggle-theme" onclick="toggleTheme()">Toggle Theme</button>
+
+  <header>
+    <div class="container">
+      <h1>Sirat-ul-Jinan Library</h1>
     </div>
-  </div>
+  </header>
+
+  <main class="container">
+    <div class="grid" id="pdf-container"></div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>© 2025 Sirat-ul-Jinan Library. All rights reserved.</p>
+    </div>
+  </footer>
 
   <script src="script.js"></script>
 </body>
